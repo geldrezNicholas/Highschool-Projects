@@ -1,0 +1,18 @@
+lettuce, leafy green, green
+spinach, leafy green, green
+silverbeet, leafy green, green
+cabbage, cruciferous, green
+cauliflower, cruciferous, white
+brussels sprouts, cruciferous, green
+broccoli, cruciferous, green
+pumpkin, marrow, orange
+cucumber, marrow, green
+zucchini, marrow, green
+potato, root, brown
+sweet potato, root, orange
+yam, root, pink
+celery, perennial, green 
+asparagus, aromatic, green
+onion, allium, yellow
+garlic, allium, white
+shallot, allium, green
